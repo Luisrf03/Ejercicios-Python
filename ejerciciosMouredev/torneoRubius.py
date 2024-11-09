@@ -51,7 +51,7 @@ def get_total_followers (token: str, client_id: str, id: str ) -> int:
 CLIENT_SERCRET = env.CLIENT_SECRET
 CLIENT_ID = env.CLIENT_ID
 
-users = ["rubius", "mouredev", "asdadasd"]
+users = ["rubius", "mouredev", "asdadasd", "ibai"]
 users_data = []
 not_found_users = []
 
